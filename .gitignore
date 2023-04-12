@@ -1,0 +1,3 @@
+node_modules
+/emscripten-build/*
+output.png
